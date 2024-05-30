@@ -1,0 +1,16 @@
+Enter the following energetic parameters in the "ENTER YOUR INPUTS HERE" cell of the Jupyter notebook "MF-spinodal.ipynb" to obtain the spinodals. 
+
+For all plots, the following parameters are fixed:
+EMSN = 0
+EMMA = -1
+EMMN = -1 
+ESSA = 0
+ESSN = 0
+PV   = 1
+PW   = 0.25
+N    = 32
+
+R1: EMSA = 0
+R2: EMSA = -1
+R3: EMSA = -0.499
+
